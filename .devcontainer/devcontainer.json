@@ -1,0 +1,4 @@
+{gh pr checkout 1447
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
